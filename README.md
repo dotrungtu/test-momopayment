@@ -1,16 +1,16 @@
 # Test momopayment
 Test project for MoMo's Java payment library
 
-###Requirements:
+### Requirements:
 - At least Java 8
 - Maven 
 
 Please consult https://developers.momo.vn/#/ for detailed APIs of the library as well as applicable MoMo endpoints for different methods.<br/> 
 
-###About the Test Project 
+### About the Test Project 
 You can directly clone this repo and run the files (`AllInOne.java` and `Pay.java`) to have an understanding of how [momopayment](https://github.com/lnguyen99/momopayment) library works. 
 
-###The momopayment library
+### The momopayment library
 For the snapshot version, you can add the following dependency to your `pom.xml`:
 ```     
         <dependency>
