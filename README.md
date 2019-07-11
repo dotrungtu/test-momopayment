@@ -1,5 +1,5 @@
 # Test momopayment
-Test project for MoMo's Java payment library
+Test project for [MoMo's Java payment library](https://github.com/lnguyen99/momopayment)
 
 ### Requirements:
 - At least Java 8
